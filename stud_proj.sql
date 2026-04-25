@@ -2,8 +2,6 @@
 --   STUDENT PERFORMANCE ANALYSIS — SQL PROJECT
 --   Database : stud_performance
 --   Table    : student_performance
---   Author   : [Your Name]
---   Date     : 2026-04-14
 -- ============================================================
 
 USE stud_performance;
